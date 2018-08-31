@@ -23,8 +23,8 @@ public Plugin myinfo =
     name = "CMCD",
     description = "Custom Map Change Detector",
     author = "danthonywalker#5512",
-    version = "1.0.0",
-    url = "https://github.com/danthonywalker"
+    version = "1.0.1",
+    url = "https://github.com/neon-bot-project/CMCD"
 };
 
 public void OnPluginStart()
